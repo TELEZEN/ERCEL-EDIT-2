@@ -45,7 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('Aᴅᴅ Mᴇ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
+            InlineKeyboardButton('FILTERS', show_alert='In maintainance...'),
             ],[
             InlineKeyboardButton('Mʏ Pʀᴏғɪʟᴇ', url='https://telegra.ph/file/d1bf0c0b166b4ba50c0ca.jpg'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/+2II-zW8UCLw4ZTFl'),
@@ -92,7 +92,7 @@ async def start(client, message):
             InlineKeyboardButton('Cɪɴᴇᴍᴀ Sᴛᴇʟʟᴀʀ', url='https://t.me/Cinema_Stellar_talks'),
             InlineKeyboardButton('Sᴇᴀʀᴄʜ', switch_inline_query_current_chat='')
             ],[
-            InlineKeyboardButton('Aᴅᴅ Mᴇ', url=f'http://t.me/{temp.U_NAME}?startgroup=true'),
+            InlineKeyboardButton('FILTERS', show_alert='In maintainance...'),
             ],[
             InlineKeyboardButton('Mʏ Pʀᴏғɪʟᴇ', url='https://telegra.ph/file/d1bf0c0b166b4ba50c0ca.jpg'),
             InlineKeyboardButton('Sᴏᴜʀᴄᴇ', url='https://t.me/+2II-zW8UCLw4ZTFl'),
